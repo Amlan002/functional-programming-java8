@@ -1,0 +1,4 @@
+Basically, functional programming is a style of writing computer programs that treat computations as evaluating mathematical functions. 
+
+The functional styles introduced in Java 8, helps us reduce the gap between the business logic and the code. It allows them to tell the 
+story together in a natural flow on a higher level. Instead of saying how you want things done, you can say what you want done.
